@@ -4,8 +4,8 @@ mail: konjaz@gmail.com
 licence: GPL-3.0
 
 """
-from console_logger import LOG as log
-import system_handler
+from log.console_logger import LOG as log
+from basic_functions import system_handler
 
 
 def installer():

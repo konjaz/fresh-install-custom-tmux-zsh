@@ -5,8 +5,9 @@ licence: GPL-3.0
 
 """
 import os
-from console_logger import LOG
 import platform
+
+from log.console_logger import LOG
 
 
 def find_user_path():
