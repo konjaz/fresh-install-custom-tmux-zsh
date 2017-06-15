@@ -1,6 +1,3 @@
-os: linux
-dist: zesty
-group: stable
 language: python
 python:
   - "2.6"
